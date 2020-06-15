@@ -4,7 +4,7 @@
 
 import UIKit
 
- struct Constants {
+ public struct Constants {
      static let appleLanguage = "AppleLanguages"
      static let defaultLanguage = "en"
 }
