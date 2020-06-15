@@ -5,8 +5,8 @@
 import UIKit
 
  public struct Constants {
-     static let appleLanguage = "AppleLanguages"
-     static let defaultLanguage = "en"
+  public   static let appleLanguage = "AppleLanguages"
+  public  static let defaultLanguage = "en"
 }
 
 public class MoLocalization: NSObject {
